@@ -14,8 +14,10 @@ My passion is to follow the KISS principle through the journey of a software pro
 
 ## Blog
 
+ * [Implementing a timeline with scrolling and zooming - or how I failed at elementary school math](https://thomas.preissler.me/blog/2022/01/10/implementing-a-timeline-with-scrolling-and-zooming-or-how-i-failed-at-elementary-school-math)
  * [Release memory back to the OS with Java 11](https://thomas.preissler.me/blog/2021/05/02/release-memory-back-to-the-os-with-java-11)
- * [Java Streams are not always a good fit for readability](https://thomas.preissler.me/blog/2021/05/02/release-memory-back-to-the-os-with-java-11)
+ * [Java Streams are not always a good fit for readability](https://thomas.preissler.me/blog/2021/03/25/java-streams-are-not-always-a-good-fit-for-readability)
  * [Predicate.not for filtering Java Streams](https://thomas.preissler.me/blog/2021/01/10/predicate-not-for-filtering-java-streams)
+ * [Build a Cartesian Product with Java Streams](https://thomas.preissler.me/blog/2020/12/29/permutations-using-java-streams)
  * [Build my Jekyll blog with bare GitHub Actions](https://thomas.preissler.me/blog/2020/12/26/build-my-jekyll-blog-with-bare-github-actions)
  * [Make decisions about a blogging system](https://thomas.preissler.me/blog/2020/12/20/make-decisions-about-a-blogging-system)

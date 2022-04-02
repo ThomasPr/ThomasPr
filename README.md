@@ -14,6 +14,7 @@ My passion is to follow the KISS principle through the journey of a software pro
 
 ## Blog
 
+ * [Using TypeScript to validate translations at compile time](https://thomas.preissler.me/blog/2022/03/30/using-typescript-to-validate-translations-at-compile-time)
  * [Implementing a timeline with scrolling and zooming - or how I failed at elementary school math](https://thomas.preissler.me/blog/2022/01/10/implementing-a-timeline-with-scrolling-and-zooming-or-how-i-failed-at-elementary-school-math)
  * [Release memory back to the OS with Java 11](https://thomas.preissler.me/blog/2021/05/02/release-memory-back-to-the-os-with-java-11)
  * [Java Streams are not always a good fit for readability](https://thomas.preissler.me/blog/2021/03/25/java-streams-are-not-always-a-good-fit-for-readability)

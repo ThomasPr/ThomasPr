@@ -14,6 +14,7 @@ My passion is to follow the KISS principle through the journey of a software pro
 
 ## Blog
 
+ * [Download a file by an anchor-element only. No more Content-Disposition!](https://thomas.preissler.me/blog/2022/05/04/download-a-file-by-an-anchor-element-only)
  * [Testing TypeScript Definitions](https://thomas.preissler.me/blog/2022/04/27/testing-typescript-definitions)
  * [Using TypeScript to validate translations at compile time](https://thomas.preissler.me/blog/2022/03/30/using-typescript-to-validate-translations-at-compile-time)
  * [Implementing a timeline with scrolling and zooming - or how I failed at elementary school math](https://thomas.preissler.me/blog/2022/01/10/implementing-a-timeline-with-scrolling-and-zooming-or-how-i-failed-at-elementary-school-math)

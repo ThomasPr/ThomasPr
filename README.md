@@ -14,6 +14,8 @@ My passion is to follow the KISS principle through the journey of a software pro
 
 ## Blog
 
+
+ * [OpenTelemetry with Quarkus to push distributed traces to AWS X-Ray](https://thomas.preissler.me/blog/2022/06/21/opentelemetry-with-quarkus-to-push-distributed-traces-to-aws-xray)
  * [Download a file by an anchor-element only. No more Content-Disposition!](https://thomas.preissler.me/blog/2022/05/04/download-a-file-by-an-anchor-element-only)
  * [Testing TypeScript Definitions](https://thomas.preissler.me/blog/2022/04/27/testing-typescript-definitions)
  * [Using TypeScript to validate translations at compile time](https://thomas.preissler.me/blog/2022/03/30/using-typescript-to-validate-translations-at-compile-time)

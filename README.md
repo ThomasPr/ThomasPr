@@ -14,7 +14,7 @@ My passion is to follow the KISS principle through the journey of a software pro
 
 ## Blog
 
-
+ * [Leveraging the Power of JavaScript Generator Functions: Keep Database Batch Operations clean and maintainable](https://thomas.preissler.me/blog/2023/06/14/javascript-generator-functions)
  * [OpenTelemetry with Quarkus to push distributed traces to AWS X-Ray](https://thomas.preissler.me/blog/2022/06/21/opentelemetry-with-quarkus-to-push-distributed-traces-to-aws-xray)
  * [Download a file by an anchor-element only. No more Content-Disposition!](https://thomas.preissler.me/blog/2022/05/04/download-a-file-by-an-anchor-element-only)
  * [Testing TypeScript Definitions](https://thomas.preissler.me/blog/2022/04/27/testing-typescript-definitions)
